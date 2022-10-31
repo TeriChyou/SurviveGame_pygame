@@ -12,7 +12,9 @@ Latest Updates:
   3. Made the trace system that makes ayu will consistantly move toward the player.
 
 2022/10/31 -
-
+  
+  TEST VIDEO: https://youtu.be/4AELr3az2qk
+  
   1. Imported the img with relative path, so if anyone downloaded it should change the path in 
      
      ```### initialize and setup for the games > # IMG```
